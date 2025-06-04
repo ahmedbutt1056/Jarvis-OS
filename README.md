@@ -1,6 +1,6 @@
-## **🚀 JARVIS OS: A Custom Operating System Simulator**  
+## **JARVIS OS: A Custom Operating System Simulator**  
 
-### **🔹 Overview**  
+### **Overview**  
 **JARVIS OS** is a **custom operating system simulator** built in **C++** that mimics core OS functionalities such as **process scheduling, memory management, process synchronization, and multilevel queue scheduling**. The project demonstrates how an OS manages multiple tasks efficiently while handling **RAM allocation, priority-based scheduling, and process synchronization** using **mutex locks**.  
 
 This simulator includes **15+ pre-defined tasks** (like Calculator, Tic-Tac-Toe, Banking System, etc.) and allows users to **add, remove, and execute processes dynamically**.  
