@@ -7,7 +7,7 @@ This simulator includes **15+ pre-defined tasks** (like Calculator, Tic-Tac-Toe,
 
 ---
 
-## **💡 Key Features**  
+## ** Key Features**  
 
 ### **1. Process Scheduling (Priority-Based)**
 - **Priority Scheduling Algorithm**: Higher-priority processes execute first.  
@@ -31,7 +31,7 @@ This simulator includes **15+ pre-defined tasks** (like Calculator, Tic-Tac-Toe,
 
 ---
 
-## **🛠️ Technologies Used**  
+## ** Technologies Used**  
 - **C++** (OOP, Multithreading, System Programming)  
 - **POSIX Threads (`pthread`)** for multithreading  
 - **Shared Memory (IPC)** for inter-process communication  
@@ -39,7 +39,7 @@ This simulator includes **15+ pre-defined tasks** (like Calculator, Tic-Tac-Toe,
 
 ---
 
-## **📌 How It Works?**  
+## ** How It Works?**  
 1. **Initialization**:  
    - The OS loads 15 default tasks with predefined priorities and RAM usage.  
    - Users can log in as **User** (to run apps) or **Kernel** (admin mode).  
@@ -59,7 +59,7 @@ This simulator includes **15+ pre-defined tasks** (like Calculator, Tic-Tac-Toe,
 
 ---
 
-## **🚀 Why This Project?**  
+## **Why This Project?**  
 - **Learn OS Concepts**: Deep dive into **scheduling, memory management, and synchronization**.  
 - **Hands-on C++ System Programming**: Uses **multithreading, IPC, and Linux system calls**.  
 - **Scalable**: Can be extended with **new scheduling algorithms (Round Robin, FCFS)**.  
